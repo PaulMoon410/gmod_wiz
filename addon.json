@@ -1,0 +1,10 @@
+{
+	"title": "Wizard NPC",
+	"type": "ServerContent",
+	"tags": [ "roleplay", "npc", "magic" ],
+	"ignore": [
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
